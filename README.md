@@ -5,3 +5,8 @@ Les Pokemons ont un type (eau, feu, psy, ...) visible grace à la couleur de la 
 On peut également rechercher un Pokemon, le champ de recherche récupère tous les Pokemons qui possèdent les lettres tapées.
 
 J'ai créé ce programme dans le cadre d'une formation Udemy proposée par Axel Paris.
+
+Dev skills:
+_Interaction avec le DOM.
+_Utilisation des promesses et d'une API.
+_JS basics (array, function, const/let/var, ...).
